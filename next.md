@@ -2,6 +2,9 @@
 1. GET /CMS/report/exchange-rate-report
     - [x] change parameter in the url '/{token}/{date}?currency={currency}' => '/{token}?date={date}&currency={currency}'
     
+2. GET /CMS/report/referral-history-report/
+    - [x] add param 'username'
+    
 ### Sites
 
 1. 
