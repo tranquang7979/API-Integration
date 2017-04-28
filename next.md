@@ -4,6 +4,9 @@
     
 2. GET /CMS/report/referral-history-report/
     - [x] add param 'username'
+
+3. GET /CMS/report/referral-history-detail-report/
+    - [x] add param 'gameId'
     
 ### Sites
 
