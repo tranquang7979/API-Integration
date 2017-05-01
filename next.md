@@ -17,6 +17,27 @@
 5. POST /CMS/member/update-member
     - [x] add property 'agentId', 'prefix' that to know which agent should be owner of this member account.
 
+6. POST /CMS/member/update-login-status
+    - [x] add property 'agentId', 'prefix' that to know which agent should be owner of this member account.
+    
+7. POST /CMS/member/add-bank
+    - [x] add property 'agentId', 'prefix' that to know which agent should be owner of this member account.
+    
+8. GET /CMS/transaction/get-deposit-transaction
+    - [x] add property 'agentId', 'prefix' that to know which agent should be owner of this member account.
+
+9. GET /CMS/transaction/get-deposit-transaction
+    - [x] add property 'agentId', 'prefix' that to know which agent should be owner of this member account.
+
+10. GET /CMS/transaction/get-withdrawal-transaction
+    - [x] add property 'agentId', 'prefix' that to know which agent should be owner of this member account.
+
+11. GET /CMS/report/wl-daily
+    - [x] add property 'agentId', 'prefix' that to know which agent should be owner of this member account.
+
+12. GET /CMS/report/wl-daily
+    - [x] add property 'agentId', 'prefix' that to know which agent should be owner of this member account.
+
 ### Sites
 
 1. 
